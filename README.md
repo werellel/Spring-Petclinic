@@ -1,2 +1,0 @@
-# spring-petclinic
-spring-petclinic
